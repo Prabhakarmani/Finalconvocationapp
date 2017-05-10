@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "570074686355",
+    "firebase_url": "https://finalconvocationapp.firebaseio.com",
+    "project_id": "finalconvocationapp",
+    "storage_bucket": "finalconvocationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570074686355:android:4f98888495244cac",
+        "android_client_info": {
+          "package_name": "com.android.finalconvocationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570074686355-sq98i0ahk2s5ou44otng77kjscnseh0n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.finalconvocationapp",
+            "certificate_hash": "42234f19a5672ecedc8e43dd0fe20718596803e1"
+          }
+        },
+        {
+          "client_id": "570074686355-l4te08cdr8sl0vvpub39q1664mlrv1te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoP5_nfNYsXok7GF99zJIIsi474_LhzvA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570074686355-l4te08cdr8sl0vvpub39q1664mlrv1te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
